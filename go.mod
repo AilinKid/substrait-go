@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
-module github.com/substrait-io/substrait-go
+module github.com/AilinKid/substrait-go
 
 go 1.18
 
