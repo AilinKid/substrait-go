@@ -9,7 +9,7 @@
 package proto
 
 import (
-	extensions "github.com/substrait-io/substrait-go/proto/extensions"
+	extensions "github.com/AilinKid/substrait-go/proto/extensions"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	anypb "google.golang.org/protobuf/types/known/anypb"
